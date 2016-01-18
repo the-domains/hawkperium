@@ -2,12 +2,13 @@ name: HawkPerium
 favicon: null
 layout_spectrum: 0.4809855134226382
 typography_spectrum: 0.8563207231927663
+title: HawkPerium
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-72574264-3
   facebook: null
   twitter: null
 opengraph:
