@@ -1,0 +1,28 @@
+name: HawkPerium
+favicon: null
+layout_spectrum: 0.4809855134226382
+typography_spectrum: 0.8563207231927663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4498820104636252
+  lightness: 0.8024013815447688
+  saturation: 0.35654590581543744
+  rhythmicContrast: 0.22187230037525296
+purpose: []
